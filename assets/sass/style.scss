@@ -1,1 +1,14 @@
-// Web Template Design
+// Main SCSS file.
+
+@import 'responsive';
+
+// body{
+//     background-color: red;
+   
+//     @include breakpoint(lg, max){
+//         background-color: blue
+//     }
+//     @include breakpoint(sm, max){
+//         background-color: lightcoral;
+//     }
+// }
